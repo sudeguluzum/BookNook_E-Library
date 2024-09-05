@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "cover": "/src/assets/img/1.png",
+    "author": "Matt Haig",
+    "name": "Gece Yarısı Kütüphanesi",
+    "pages": 296,
+    "text": "Yaşamla ölüm arasında bir kütüphane var, dedi. Bu kütüphanedeki raflar sonsuza kadar gider. Her kitap yaşamış olabileceğin başka bir hayatı yaşama şansını sunar sana. Farklı seçimler yapmış olsan, şu an nasıl bir hayatın olacağını görürsün… Pişmanlıklarını telafi etme şansın olsaydı, bazı konularda farklı davranır mıydın? Nora Seed berbat halde. Kedisi öldü. İşinden kovuldu. Abisi onunla konuşmuyor. Kimsenin ona ihtiyacı yok. Art arda alınmış kötü kararların sonucunda bir kütüphanede buluyor kendini. Zamanın hiç akmadığı bir gece yarısı kütüphanesinde, sonsuz sayıda kitabın ortasında... Kitapların her birinde Nora’nın farklı bir hayatı yazılı. Başka kararlar verseydi yaşamış olabileceği hayatlar. Farklı kariyerler, farklı eşler, farklı arkadaşlar, farklı şehirler arasında gidip gelen Nora’nın aklı sorularla doluyor. Mutluluk sadece önemli sandığımız seçimlerde mi gizli? Yanlış giden her detayın sorumlusu gerçekten biz miyiz? Hayatı yaşanılır kılan ne? Yanlış bir karar insanın tüm hayatına mal olabilir mi?"
+  },
+  {
+    "id": 2,
+    "cover": "/src/assets/img/2.png",
+    "author": "Fumitake Koga",
+    "name": "Kendinle Savaşma Sanatı",
+    "pages": 344,
+    "text": "Bir filozof ve genç bir adamın, Freud ve Jung’la birlikte on dokuzuncu yüzyılın en önemli isimlerinden Avusturyalı psikoterapist Alfred Adler’in önünü açtığı yolda deneyimledikleri beyin fırtınası, Japonya’da milyonlarca insanın hayatını değiştiren bir fenomene dönüştü ve şimdi de size duygularınızdan korkmadan yaşamanız, geçmişin zincirlerini kırarak özgürleşmeniz ve kendiniz olmanın önündeki en büyük engele yani kendinize karşı savaştan galip çıkmanız için gerekli strateji ve felsefeyi sunuyor. İkili arasında geçen diyaloglarda, kendi içinize dönüp cevaplamak isteyeceğiniz ve her cevapta gerçek ‘siz’ olmaya yaklaşacağınız soruların olduğu bu kitapla, artık rüzgarın önüne kattığı başıboş savrulan bir yaprak gibi hissetmeyecek, kendini tanımanın sonsuz okyanusundaki değerli sırra erişerek yaşam bilgeliğini kavrayacaksınız."
+  },
+  {
+    "id": 3,
+    "cover": "/src/assets/img/3.png",
+    "author": "Fumitake Koga",
+    "name": "Mutlu Olma Cesareti",
+    "pages": 292,
+    "text": "Mutluluk cesaret işi midir? Geçmiş ve gelecek kaygılarımızdan kurtulup şu anda ve burada yaşayarak hayatımıza yön verebilir miyiz? İş, sevgi, arkadaşlık, kişilerarası ilişkiler ve topluluk hissi yoluyla hayatımıza nasıl anlam verebiliriz? Ve hayattaki en büyük seçim nedir? Filozof ile Genç Adam üç yıl sonra tekrar bir araya gelerek Adler psikolojisi ve felsefesi rehberliğinde işte bu soruların ve pek çok hayati meselenin peşine düşüyor. Eğitim ve çocuk gelişiminden aile hayatına, iş ve arkadaşlık ilişkilerinden aşk ve evlilik ilişkilerine, toplumsal yaşamın karmaşalarından birey olmanın çetin yollarına, onaylanma arzusu ve rekabetten özerklik ve işbirliğine pek çok konuda kıyasıya tartışarak hayata ve insana dair varsayımlarımızı kurcalıyor ve anlamlı bir hayat yaşama yolunda nasıl adımlar atabileceğimizi gösteriyor. Bazen tek kitap hayatımızı değiştirebilir. Acaba o kitap bu kitap olabilir mi?.."
+  },
+  {
+    "id": 4,
+    "cover": "/src/assets/img/4.png",
+    "author": "Won-Pyung Sohn",
+    "name": "Badem",
+    "pages": 256,
+    "text": "Yunjae başkalarının duygularını anlayabilmekte zorlanan, aleksitimi adlı hastalığa sahip eşsiz bir karakterdir. Diğer kişilerin sözlerini ve eylemlerini anlayamayan, korku ya da öfke hissedemeyen Yunjae, normal bir hayat sürebilmek için annesinin ve ninesinin yardımlarıyla evde duygusallık eğitimleri alır. Dünyayı sadece olduğu hâliyle görebilen Yunjae, kendi doğum gününde trajik bir biçimde ailesini kaybeder ve dünyada bir başına kalır. Ancak her şeyi kaybettiğinizi düşündüğünüz anda karşınıza yeni birileri çıkıverir. Karanlık yaraları olan Gon, duyarlı ve anlayışlı Dora ve Yunjae’ye yardım etmek isteyen Doktor Shim… Yunjae ve onların arasında yaşananlar, aslında başkalarının duygularını anlamanın ne kadar zor olduğunu ancak bir o kadar da değerli olduğunu farketmemizi sağlıyor."
+  },
+  {
+    "id": 5,
+    "cover": "/src/assets/img/5.png",
+    "author": "Ayşe Tolga",
+    "name": "Ne İstersen Değil Neysen Onu Çekersin",
+    "pages": 200,
+    "text": "Gördüğümde inanırım inandığımda görürüm. Artık bir dönüm noktasındayız. Kuantum fiziği, evrenin görünenden ibaret olmadığını kanıtlayarak, kendi yaşamlarımızın yaratıcıları, hatta sanatçıları olduğumuzu da ortaya koyuyor. Tezahür etmek, var etmek, sadece irade meselesi değildir, aynı zamanda bir sanattır. Bu kitap sayesinde, Kuantum Tezahür Ustalığı yolunda edineceğiniz bilgilerle zamanın ötesinde bir deneyim yaşayacaksınız, hem de saniyeler içinde. İçdünyanızda başlatacağınız devrimsel dönüşümleri, içinde yaşadığınız dünyada tezahür ettirmeye başladığınızda, hayatın olasılıklarla dolu bir sahne olduğunu anlayacaksınız. Tezahür bir “İste ve olsun!” süreci değildir, “İste ve gerçekleştir!” deneyimidir."
+  },
+  {
+    "id": 6,
+    "cover": "/src/assets/img/6.png",
+    "author": "Büşra Sanay, Muazzez İlmiye Çığ",
+    "name": "Yaşadım Demek İçin Ne Yapmalı?",
+    "pages": 232,
+    "text": "Ne Olursa Olsun Her Zaman İyiyi Düşün. Asla Kin Besleme. Daima Ölçülü Ol. Hayatta Herkesle Ve Her Şeyle Aramızda, İhlal Edilmemesi Gereken, Görünmez Sınırlar Var. İnsan Bu Dünyada Aklı Kadar Yer Kaplıyor. Şartlar Seni Zorlasa Da Kendin Olma Çabandan Vazgeçme. Gözünü Hedefine Diken İnsan Zararsızdır. Kendini Anlatmayacaksın, Bırakacaksın İnsanlar Seni Tanısın. Gelişmeye Cüret Edecek Kadar Cesur Değilsen Hayatta İz Bırakamazsın. Bu Yolda Öğrendiklerimiz Ve Öğrettiklerimiz Bizi Biz Yapar."
+  },
+  {
+    "id": 7,
+    "cover": "/src/assets/img/7.png",
+    "author": "Mark Wolynn",
+    "name": "Seninle Başlamadı",
+    "pages": 280,
+    "text": "Mark Wolynn Seninle Başlamadı'yla sizi, geçmişinize doğru bir yolculuğa çıkarıyor. Oldukça sade ve akıcı bir dille yazdığı eserde, yaşadığınız travmaların üzerinizdeki etkilerine ışık tutarak bu travmaları anlamanızı ve iyileştirmenizi sağlıyor. Yalnızca kendi hayatınızın sorunlarına değil, üç kuşak öncesinde ailenizin yaşadığı sorunlara da değinen yazar, yaşadığınız problemlerin kendinize ait olmayabileceğini söyleyerek aile geçmişinizi araştırmanızı öneriyor. Kimi zaman kendinizi öfkeli, mutsuz, çaresiz veya korku dolu hissediyor olabilirsiniz. Fakat yaşadığınız bu duygular yalnızca size mi ait yoksa bir aile büyüğünüzden mi miras mı kaldı? Nesiller öncesinde yaşanan kaygı, yetersizlik, sevgisizlik, korku ve iletişimsizlik gibi duyguların aktarılarak kişinin bugünkü yaşamını etkilediğini gösteren Seninle Başlamadı, bu yolculukta yalnız olmadığınızı ve ailenizin geçmişiyle yüzleşmenizin önemini vurguluyor. Kişisel gelişiminize ve psikolojinize katkı sağlayacak olan Seninle Başlamadı'nın ışığında, hayatınızda köklü değişimlerin kapısını aralayabilirsiniz."
+  },
+
+  {
+    "id": 8,
+    "cover": "/src/assets/img/8.png",
+    "author": "Yu Hua",
+    "name": "Yaşamak",
+    "pages": 210,
+    "text": "Yazarının henüz ikinci romanı olmasına rağmen dünya çapında büyük bir kitleye ulaşan Yaşamak, Çin’in yakın geçmişindeki zorlu yaşam koşullarını tüm gerçekliğiyle ele alıyor. Yu Hua tarafından 1993 yılında kaleme alınan yapıt, Türk okurlarıyla buluştuğu 2016 yılından itibaren ülkemizde de büyük bir beğeni topluyor. Çevirmen Bahar Kılıç tarafından orijinal dilinden çevrilen eser, Yu Hua’nın sade ve akıcı anlatımının gücünü aslından ödün vermeden etkileyici bir şekilde yansıtıyor. Konusu itibarıyla dönem hükümeti tarafından Çin’de yasaklanan Yaşamak, dünya çapında gördüğü ilgiden dolayı şimdiden modern klasikler arasında değerlendiriliyor. Romanın içten dili ve sıradan insanı kadrajına alan öyküsü, okurlarına kitaptan öte bir yaşanmışlık vadediyor. Yaşamak, başkahramanı Fugui’nin dokunaklı ve bir o kadar da merak uyandırıcı yaşam öyküsüne tanıklık etmeniz için sizi de sayfalarını aralamaya çağırıyor."
+  },
+  {
+    "id": 9,
+    "cover": "/src/assets/img/9.png",
+    "author": "Victor E. Frankl",
+    "name": "İnsanın Anlam Arayışı",
+    "pages": 56,
+    "text": "İnsanın en derin arzusu nedir? Acıyı aşmak ve varoluşun çetin koşullarında anlam aramak mümkün müdür? Yaşamın bizden ne beklediğini keşfettikten sonra bunu umutsuz insanlarla paylaşmak mücadeleyi güçlendirir mi? Peki insanı insan yapan nedir? Yirminci yüzyılın önde gelen psikiyatrlarından Viktor E. Frankl, 30'un üzerinde yabancı dile çevrilen ve bütün dünyada 12 milyondan fazla satan İnsanın Anlam Arayışı'nda, kurucusu olduğu logoterapinin ilkelerini, İkinci Dünya Savaşı sırasında bir toplama kampındaki deneyimleri eşliğinde anlatıyor. Açlığın yanı sıra hastalık ve gardiyanların çeşitli eziyetleriyle adeta ölüme hapsedilen toplama kampı sakinlerinin tüm bu zorlukların üstesinden gelebilmek için yapmaları gerekenleri kendi tecrübeleriyle aktaran Frankl, hayattan ne beklediğimizden ziyade hayatın bizden ne beklediğini keşfetmenin önemini hatırlatıyor. İnsanın Anlam Arayışı ile insanlık tarihinin gördüğü en büyük acılara tanık olacak, merhametsizliğin boyutlarını kavrayacak ve zulmün hüküm sürdüğü zamanlarda umudun peşinden sürüklenmenin ne anlama geldiğini toplama kamplarının buz gibi gerçekliğiyle göreceksiniz. Başarı ve mutluluk bir yan üründür, asıl olan yolculuktur."
+  },
+  {
+    "id": 10,
+    "cover": "/src/assets/img/10.png",
+    "author": "Osamu Dazai",
+    "name": "İnsanlığımı Yitirirken",
+    "pages": 109,
+    "text": "Gündelik yaşamın acı veren detaylarını ve yıkıcı anların uğultusunu tüm yalınlığıyla kâğıda dökerek yarattığı bu anti-kahramanla, Japonya’nın genç aydınlarının Batı ile geleneksel kültür arasındaki sıkışmışlığını resmederek, bireyciliğin ve toplum karşıtlığının \"salgın\" gibi yayıldığı bir coğrafyada varoluşçuluk tohumları serpiyor. Duygular hırpalanarak silikleşirken, dünyanın gerçekliğini yitirişini aktaran Dazai, dünyevi hazlar peşinde iyileşmeye çalışırken daha da parçalanan Yozo karakterinde cisimleşen evrensel sancının yansıdığı satırlarla yazın dünyasında ölümsüzleşiyor. Yaşamı intihar girişimleriyle şekillenmiş bir yazardan, ölümün sınır çizgilerine misilleme yapan bir metin..."
+  },
+  {
+    "id": 11,
+    "cover": "/src/assets/img/11.png",
+    "author": "Sinan Canan",
+    "name": "Hayatın Anlamı",
+    "pages": 272,
+    "text": "“Hayatın anlamı” pek büyük bir başlık. Herkesin ara sıra kendine sorduğu, sormasa da kimi zaman bilinçli ama çoğu zaman bilinç dışında hep aradığı temel bir mesele. Akıl denen yetenek nedeniyle “sürekli bir şeylere anlam vermek zorunda olan” bizler, buradaki varlığımızın da bir anlamı olmasını arzu ediyoruz. Biz mutluluğu iki şey zannediyoruz: haz ve acıdan kurtulma hali. Haz aldığımız şeylerde, yemek yemek, cinsel ilişki dahil olmak üzere her şeyde ortak bir yön var: Bitiyor. Biz, insan olarak, yediğimiz yemeğin, ilişkinin, haz veren herhangi bir aktivitenin biteceğini bilen tek varlığız. Aldığımız hazzın biteceğini biliyoruz, o nedenle bir yandan bize çok haz verirken aynı esnada bitecek olmasının hüznünü yaşıyoruz."
+  },
+  {
+    "id": 12,
+    "cover": "/src/assets/img/12.png",
+    "author": "Sinan Canan",
+    "name": "Değişen Beynim",
+    "pages": 280,
+    "text": "Bu kitap bizzat sizinle, bizimle ilgili... Anne karnından yaşamımızın sonuna kadar tüm yaşamımızı yönetmek gibi çetin bir işle mükellef o muhteşem et parçasının, yani beyninizin başrolü oynadığı bir macerayı yaşıyoruz hep birlikte. Bu maceranın adı ise “hayat”... Bir sinirbilimci olarak, beyin hakkında herkesin bilmesi gerektiğini düşündüğüm işe yarar bilgileri, kendi hayatıma geri dönüp baktığımda gördüklerimle birlikte, meraklısıyla paylaşmak en büyük keyfim. Yüzlerce kez anlatmama rağmen, öğrenmeye ve anlatmaya doyamadığım bu muhteşem meseleyi, bu kez de sayfaların ve kelimelerin izin verdiği ölçüde burada sizlerle paylaşmak niyetindeyim. Beyin’in bu ilk beyin kitabında inanıyorum ki bizzat kendinizi okuyacak ve bilimsel bilgiden yaşama sevincine açılan nice kapıları keşfetmenin keyfini hissedeceksiniz. Fakat unutmayın; hiçbir insanoğlu, beyniniz kadar muhteşem bir kitap yazamayacak. Bu sayfalarla birlikte aslında bizzat onu okumaya, onu anlamaya çalışıyoruz..."
+  },
+  {
+    "id": 13,
+    "cover": "/src/assets/img/13.png",
+    "author": "Daniel M. Haybron",
+    "name": "Mutluluk",
+    "pages": 171,
+    "text": "Mutluluk tanımlarınız nelerdir? Mutluluğu nasıl ölçersiniz? Mutluluğun kaynakları nelerdir? Bu soruların yanıtlarını vermek basit gibi görünse de gerçekte mutluluğu tanımlamak biraz güçtür. Evet, mutluluk sık kullandığımız bir terimdir ve elbette çoğumuz mutlu olmak için didiniriz. Ancak mutluluğun ne olduğunu ve onu nelerin sağladığını göz önünde bulundurabilmek, insanların uğruna didinip durdukları şeyi kavramak adına başlı başına yeterli olmayabilir. Aynı zamanda mutluluğun ahlaki bir yaşamla nasıl bağdaştığı üzerine düşünmeyi de ihmal etmemek gerekir."
+  },
+  {
+    "id": 14,
+    "cover": "/src/assets/img/14.png",
+    "author": "Antoine de Saint-Exupery",
+    "name": "Küçük Prens",
+    "pages": 80,
+    "text": "Kitapta yaşamın bilinmezliği, heyecanı, sevgisi, yalnızlığı, kavuşma özlemi ve hayatın yalın gerçekleri anlatılmaktadır. Öte yandan yetişkinlerin çoğu kez çocuksu bakış açısını yitirdiği ve çocuklara karşı yaptıkları hatalar büyük bir ustalıkla işlemiştir. Çoğu kez gözlerin gerçeği göremediği, kalp ile aramanın mesajı yer almaktadır… Çocukların ilgi ve beğeniyle okuduğu bu eserin yanında, onların yazma yeteneğini geliştirmek amacıyla Küçük Prens Günlük Defteri kitapla birlikte verilmektedir. Bu defterle; Çocuğun kendisiyle yüzleşmesinin yanında, kendini tanıma cesaretini göstererek yazmaya başlamasını sağlayacak ve yazın hayatına merhaba demiş olacaktır…"
+  },
+  {
+    "id": 15,
+    "cover": "/src/assets/img/15.png",
+    "author": "Milan Kundera",
+    "name": "Varolmanın Dayanılmaz Hafifliği",
+    "pages": 387,
+    "text": "Kitap, yaşamın ağırlığı ve hafifliği arasındaki sorgulama ile başlıyor. Yaşam tekrar eden bir döngü mü yoksa dümdüz devam eden ve öylece tek seferlik yaşanan olaylar bütünü mü? Yazar bunu ağırlık ve hafiflik kavramlarını tanımlamak için kullanıyor. Yaşamda sonsuza kadar tekrar eden yinelemelerin bir ağırlık, bir defa yaşanan şeylerin ise hafiflik olduğunu söylüyor. Ve bir tesadüf sonucu tanışarak aşık olan Tomas ve Tereza’nın hikayesi ile olaylar başlıyor. Tomas, Tereza, Sabina ve Franz bu romanda karşımıza çıkan dört ana karakter oluyor. Tomas, insanın var olabilmesi için tüm bağlarından kurtulması, hafiflemesi gerektiğine inanıyor. Bu inancı nedeniyle oğlundan bile uzak kalarak hiç kimse ile uzun süreli bir bağ kurmadığı ilişkiler içerisinde yaşamını sürdürüyor. Tereza ise tam tersi bağlanmaya derin bir ihtiyaç duyan, geleneksel yaşam arzusu ile tam tersi bir karakter olarak karşımıza çıkıyor. Ana konu bu iki karakterin karşılaşması ve ilişkilerinin başlaması etrafında şekillenirken, Tomas ve Tereza’nın inişli çıkışlı ilişkisi kitap ilerledikçe bambaşka bir hal alıyor."
+  },
+
+  {
+    "id": 16,
+    "cover": "/src/assets/img/16.png",
+    "author": "James R. Doty",
+    "name": "Sihir Dükkanı",
+    "pages": 256,
+    "text": "Akıl güçlüdür ama bize gerçekten istediğimiz şeyi ancak kalbimizi açarsak verebilir. Henüz on iki yaşındaki James R. Doty yaşadığı yerdeki sihir dükkânına girdiği gün, tüm hayatının değişeceğinden tamamen habersizdi. Alkolik bir baba ile kronik depresyondan muzdarip bir anneyle yaşarken Stanford Üniversitesi’nde önde gelen bir beyin cerrahı oldu. Bu inanılmaz dönüşümü, Ruth’un kendisine öğrettiği imgeleme teknikleriyle gerçekleştiren Doty, kalbini açarak bu teknikleri okurlarıyla paylaşıyor ve beyniniz ile kalbinizi değiştirmeye başladığınızda, nelerin mümkün olabileceğini bizlere gösteriyor."
+  },
+  {
+    "id": 17,
+    "cover": "/src/assets/img/17.png",
+    "author": "Lev Nikolayeviç Tolstoy",
+    "name": "İnsan Neyle Yaşar?",
+    "pages": 80,
+    "text": "Tolstoy’un hayatımızın tam ortasına fırlatıp gittiği İnsan neyle yaşar? sorusunun, Tanrı’nın meleğinin ve tüm insanların içini ısıtan, yüzünü aydınlatan bir cevabı vardı: Sevgi. İnsanı avutup şenlendirecek, yüceltecek, bir başkasının yazgısına bağlayacak olan sevgi."
+  },
+  {
+    "id": 18,
+    "cover": "/src/assets/img/18.png",
+    "author": "Nouman Ali Khan",
+    "name": "Dirilt Kalbini",
+    "pages": 232,
+    "text": "Teknolojinin önümüze serdiği sınırsız imkânları düşündüğümüzde, bugünün insanını yakalayabilmek için samimi ve bilgece bir üsluba ihtiyacımız var. Gençlerimizin artık eski, kalın kitapları karıştırıp kafa yoracak ne vakitleri var, ne de istekleri. İslâm’ın ilkelerini ve güzelliklerini, tahrif etmeden ama muhatabı taltif ederek sunmamız gerekiyor. Buna ‘din dilinin restorasyonu’ dememiz caiz olursa eğer, yapmamız gereken tam da bu."
+  },
+  {
+    "id": 19,
+    "cover": "/src/assets/img/19.png",
+    "author": "Josh Malerman",
+    "name": "Gölün Dibindeki Ev",
+    "pages": 184,
+    "text": "İkisi de on yedi yaşındaydı. İkisi de korkuyordu. İkisi de evet diyordu. Mükemmel bir ilk randevuydu: üzerinde kanoyla kürek çekilen göller, sandviçler ve soğuk içecekler... Ama Amelia ve James aniden suyun altında yaşamlarını sonsuza dek değiştiren bir şey keşfettiler. İki katlı. Bir bahçeli. Ve ön kapısı da açık. Gölün dibinde bir ev. Amelia ve James için tek bir kural var: Evle ilgili soru sormak yok. Peki böylesine muhteşem bir yerin, belli bir bedelinin olmaması mümkün mü? İkili dalgaların altında parıldayan evde vakit geçirirken gerçekler de ortaya çıkmaya başlıyor: BİR EVİN BOŞ OLMASI, ORADA KİMSE OLMADIĞI ANLAMINA MI GELİYOR?"
+  },
+  {
+    "id": 20,
+    "cover": "/src/assets/img/20.png",
+    "author": "Banana Yoshimoto",
+    "name": "Mutfak",
+    "pages": 144,
+    "text": "Mutfak anneler, transseksüellik, sevdiğini kaybetme, mutfaklar, aşk, trajedi ve çağdaş Japonya'da özgür ruhlu iki kadının aklına gelen terimleri içeren iki öyküyü bir araya getiriyor. Japonya'nın en parlak genç edebiyat yıldızının şaşırtıcı orijinallikteki çalışması."
+  },
+  {
+    "id": 21,
+    "cover": "/src/assets/img/21.png",
+    "author": "Erich Scheurmann",
+    "name": "Göğü Delen Adam",
+    "pages": 84,
+    "text": "Papalagi denince beyazlar ya da yabancılar anlaşılır. Ama sözcüğü sözcüğüne çevrilirse göğü delen anlamına gelir. Samoa'ya misyoner bir yelkenliyle gelmişti. Yerliler bu beyaz yelkenliyi ufukta bir delik olarak gördüler, beyaz adamın içinden çıkıp kendilerine geldiği bir delik. O, göğü delip geçmişti. Yüzyılımızın başlarında yayımlanan Göğü Delen Adam bugün artık yeşil bir klasiği olarak okunurken, başlığının kaynaklandığı şiirsel metafor, bir de düz anlam içermeye başlıyor; çünkü Papalagi sonunda göğü gerçekten delmeyi başardı, 'ozon deliğinin' içinden ne tür bir yelkenlinin çıkageleceğini ise zaman gösterecek."
+  },
+  {
+    "id": 22,
+    "cover": "/src/assets/img/22.png",
+    "author": "Ahmet Şerif İzgören",
+    "name": "Şu Hortumlu Dünyada Fil Yalnız Bir Hayvandır",
+    "pages": 176,
+    "text": "Daha önce iş yaşamı üzerine çarpıcı görüşleriyle tanıdığımız Ahmet Şerif İzgören bu kitapta daha genel bir yaklaşımla, hayatın her dalında başarı ve mutluluğa giden yola ışık tutuyor. Bazen kahkahalarla gülecek, bazen hüzünlenecek, çokça düşünecek ve bu kitaptan çok keyif alacaksınız. Hayatınızı tekrar gözden geçirmek için 3 saat ayırın ve bu kitabı okuyun."
+  },
+  {
+    "id": 23,
+    "cover": "/src/assets/img/23.png",
+    "author": "Pierre Franckh",
+    "name": "Rezonans Kanunu",
+    "pages": 206,
+    "text": "Size hep ulaşılmaz görünen mutlu anları özlüyorsunuz. Evrendeki sonsuz zenginliğin bir parçası olmak ve onunla uyum içinde kalmak istiyorsunuz. Artık hayatın gerçek, bilgece sırlarından birini keşfetme zamanı geldi: Hissettiğiniz ya da düşündüğünüz her şey, bir rezonans alanı oluşturur ve hem sizi hem de çevrenizdekileri kalıcı olarak değiştirir. Kuantum düşünce tekniğinin temelinde yer alan Rezonans Kanunu’na göre sizi isteklerinizi gerçekleştirmekten alıkoyan sınırlar yalnızca kalbinizdedir. Pierre Franckh bu kitapta arzularınızı bloke edebilme potansiyeline sahip iç ve dış etkileri nasıl ortadan kaldıracağınızı, hedeflerinize dair pozitif bir imgelemeyi nasıl yapacağınızı, nasıl güçlü rezonans alanı kuracağınızı, düşünce gücünüz ve hislerinizle hayatınızda olmasını istediğiniz değişiklikleri nasıl elde edeceğinizi anlatıyor."
+  },
+  {
+    "id": 24,
+    "cover": "/src/assets/img/24.png",
+    "author": "Malcolm Gladwell",
+    "name": "Çizginin Dışındakiler",
+    "pages": 244,
+    "text": "Bazı insanlar neden başkalarından daha başarılı olur? Başarılı insanlar hakkında anlatılan bir hikaye vardır; onların zeki ve hırslı oldukları söylenir. Outliers’te Malcolm Gladwell başarının gerçek hikayesinin bundan çok farklı olduğunu ve bazı insanların neden başarılı olduğunu anlamak için, bunların çevrelerine daha dikkatli bakmamız gerektiğini iddia ediyor. Mesela aileleri, doğum yerleri ve hatta doğum tarihleri… Başarının hikâyesi başta göründüğünden daha karmaşık ve çok daha ilgi çekici… Outliers, Beatles ve Bill Gates’in ortak yanlarının ne olduğunu, Asyalıların matematikteki olağanüstü başarısının sırrını, star sporcuların bilinmeyen avantajlarını ve tüm New Yorklu avukatların özgeçmişlerinin neden aynı olduğunu ve dünyanın en zeki adamının neden adını bile duymadığınızı açıklıyor. Bunların hepsi de nesiller, aile, kültür ve sınıf açılarından açıklanıyor. Gladwell’in iddiasına göre, bir Silikon Vadisi milyarderi olmak istiyorsanız, hangi yıl; başarılı bir pilot olmak istiyorsanız nerede doğduğunuz çok önemli. Çizginin dışındakilerin yani normal beklentilerin ötesinde başarıyı yakalayan kişilerin hayatları tuhaf ve alışılmadık bir mantık izliyor. Gladwell bu mantığı basitleştirirken insanın kendi potansiyelinden en yüksek seviyede nasıl yararlanacağı konusunda heyecan verici bir plan sunuyor. Malcolm Gladwell, Tipping Point kitabında dünyayı anlama şeklimizi değiştirmişti Blink’te düşünme hakkındaki düşüncelerimizi değiştirdi. Outliers’ta ise başarı konusundaki anlayışımızı değiştiriyor."
+  }
+]
